@@ -27,7 +27,7 @@ The last topic interests us as rotation invariant classification seems like a ge
 
 TODO: Add motivation for course
 
-As a working student at ISRA vision, Parth has been always inclined to computer vision tasks. He is a part of machine vision team and is working on vision tasks based on deep learning. Taking this course will give him an exposure to current state of the art research techniques that can be applied to solve more pratical industry problems.
+As a working student at ISRA vision, Parth has been always inclined to computer vision tasks. He is a part of machine vision team and is working on vision tasks based on deep learning and is also working on his master thesis on image segementation. Thus taking this course will give him an exposure to current state of the art research techniques that can be applied to solve more pratical industry problems and will also assist him in his master thesis.
 
 Mario is motivated to take the course as he plans to write his master's thesis in the following semester at a computer vision lab at EPFL in Switzerland with co-supervision from the Visual Inference Lab. This lab would be a fantastic opportunity to gather additional experience in working in a scientific environment before a master's thesis.
 
