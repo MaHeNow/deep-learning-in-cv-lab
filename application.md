@@ -5,7 +5,7 @@
 - Parth Modi
   - Email: [xxx@stud.tu-darmstadt.de](mailto:xxx@stud.tu-darmstadt.de) 
 - Kamyar Arshi
-  - Email: [xxx@stud.tu-darmstadt.de](mailto:xxx@stud.tu-darmstadt.de)
+  - Email: [kamyar.arshi@stud.tu-darmstadt.de](mailto:kamyar.arshi@stud.tu-darmstadt.de)
 - Mario Nowak
   - Email: [mario.nowak@stud.tu-darmstadt.de](mailto:mario.nowak@stud.tu-darmstadt.de)
 
