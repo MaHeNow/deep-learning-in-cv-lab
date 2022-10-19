@@ -1,4 +1,4 @@
-# Application
+# Application for DL in Computer Vision Lab
 
 ## Group
 
